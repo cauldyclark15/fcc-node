@@ -1,0 +1,17 @@
+{
+  "name": "@cauldyclark15/fcc-node",
+  "version": "1.0.0",
+  "description": "practice npm usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "cauldyclark15",
+  "repository": {
+    "url": "https://github.com/cauldyclark15/fcc-node.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "test"
+  ]
+}
