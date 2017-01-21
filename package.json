@@ -1,5 +1,5 @@
 {
-  "name": "@cauldyclark15/fcc-node",
+  "name": "fcc-node",
   "version": "1.0.0",
   "description": "practice npm usage",
   "main": "index.js",
